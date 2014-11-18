@@ -33,7 +33,7 @@ nav ul {		font-family: futura, sans-serif;
 				width: 100%;
   				display: -moz-inline-block;
   				list-style-type: none;
-  				margin-top: 20px;
+  				margin-top: 30px;
   				padding: 0;
   	 	}
 
@@ -47,5 +47,9 @@ nav ul li a { 	text-decoration: none;
 				display: inline-block;
 				padding: 0px 0px 0px 0px;
 				width: 16.2%;
+				text-align: center;
+}
+
+footer {		margin: auto;
 				text-align: center;
 }
