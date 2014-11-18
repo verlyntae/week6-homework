@@ -60,7 +60,7 @@ button#sign-in{ margin: 200px 0px 200px 250px;
 				-webkit-box-shadow: inset 0 1px 10px 1px #5c8bee, 0 1px 0 #1d2c4d, 0 6px 0 #1f3053, 0 8px 4px 1px #111111;
 				box-shadow: inset 0 1px 10px 1px #5c8bee, 0 1px 0 #1d2c4d, 0 6px 0 #1f3053, 0 8px 4px 1px #111111;
 				color: #fff;
-				font: bold 20px/1 "helvetica neue", helvetica, arial, sans-serif;
+				font: bold 20px "helvetica neue", helvetica, arial, sans-serif;
 				margin-bottom: 10px;
 				padding: 10px 0 12px 0;
 				text-align: center;
@@ -148,95 +148,7 @@ button#sign-in{ margin: 200px 0px 200px 250px;
 				-webkit-box-shadow: inset 0 1px 10px 1px #5c8bee, 0 1px 0 #1d2c4d, 0 6px 0 #1f3053, 0 8px 4px 1px #111111;
 				box-shadow: inset 0 1px 10px 1px #5c8bee, 0 1px 0 #1d2c4d, 0 6px 0 #1f3053, 0 8px 4px 1px #111111;
 				color: #fff;
-				font: bold 20px/1 "helvetica neue", helvetica, arial, sans-serif;
-				margin-bottom: 10px;
-				padding: 10px 0 12px 0;
-				text-align: center;
-				text-shadow: 0 -1px 1px #1e2d4d;
-				width: 150px;
-				height: 30px;
-				-webkit-background-clip: padding-box; }
-
-button#sign-in:hover {margin: 200px 0px 200px 250px;
-				-webkit-box-shadow: inset 0 0 20px 1px #87adff, 0 1px 0 #1d2c4d, 0 6px 0 #1f3053, 0 8px 4px 1px #111111;
-				box-shadow: inset 0 0 20px 1px #87adff, 0 1px 0 #1d2c4d, 0 6px 0 #1f3053, 0 8px 4px 1px #111111;
-				cursor: pointer;
-				width: 150px;
-				height: 30px;
-}
-
-button#sign-in:active {
-				-webkit-box-shadow: inset 0 1px 10px 1px #5c8bee, 0 1px 0 #1d2c4d, 0 2px 0 #1f3053, 0 4px 3px 0 #111111;
-				box-shadow: inset 0 1px 10px 1px #5c8bee, 0 1px 0 #1d2c4d, 0 2px 0 #1f3053, 0 4px 3px 0 #111111;
-				margin-top: 200px; 
-}
-
-footer {		margin: auto;
-				text-align: center;
-}
-/*  View example button styles here: http://hellohappy.org/css3-buttons/ 
-    Then view their code here:  https://github.com/ubuwaits/css3-buttons
-    Pick two that you like, and copy the css code from repo to style the two buttons on index.html. */
-
-*{
-				margin: 0;
-				padding: 0;
-	
-}
-
-body {			overflow:auto;
-				overflow-x:hidden; 
-  				border: 0px;
-				margin: 0px;
-				padding: 0px;
-				background-color: rgb(24, 160, 251);
-}
-
-nav {           font-family: futura, sans-serif;
-                font-size: 1 em;
-                color: rgb(255, 255, 255);
-                width: 100%;
-				float: left;
-				margin: 20 20 20 20px;
-				padding: 0;
-				list-style: none;
-                background-color: rgb(24, 160, 251);
-                              
-}
-
-nav ul {		font-family: futura, sans-serif;
-                font-size: 1.3em;
-				width: 100%;
-  				display: -moz-inline-block;
-  				list-style-type: none;
-  				margin-top: 30px;
-  				padding: 0;
-  	 	}
-
-nav ul li	{   display: inline; 
-                
-}
-       
-       
-nav ul li a { 	text-decoration: none; 
-				color: rgb(255, 255, 255);
-				display: inline-block;
-				padding: 0px 0px 0px 0px;
-				width: 16.2%;
-				text-align: center;
-}
-
-button#sign-in{ margin: 200px 0px 200px 250px;
-				background: #4162a8;
-				border-top: 1px solid #38538c;
-				border-right: 1px solid #1f2d4d;
-				border-bottom: 1px solid #151e33;
-				border-left: 1px solid #1f2d4d;
-				border-radius: 4px;
-				-webkit-box-shadow: inset 0 1px 10px 1px #5c8bee, 0 1px 0 #1d2c4d, 0 6px 0 #1f3053, 0 8px 4px 1px #111111;
-				box-shadow: inset 0 1px 10px 1px #5c8bee, 0 1px 0 #1d2c4d, 0 6px 0 #1f3053, 0 8px 4px 1px #111111;
-				color: #fff;
-				font: bold 20px/1 "helvetica neue", helvetica, arial, sans-serif;
+				font: bold 20px "helvetica neue", helvetica, arial, sans-serif;
 				margin-bottom: 10px;
 				padding: 10px 0 12px 0;
 				text-align: center;
