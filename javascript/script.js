@@ -6,8 +6,8 @@
 //Function called "signUp", causes a prompt to appear and ask for user's email address, then prints to the "output-here" paragraph "Thanks for signing up, " and the entered email address. Should be triggered by clicking on the button with id of "sign-up".
 
 function signIn() {
-	var button1 = document.getElementById("button").innerHTML= "sign-in";
 	alert("Thanks for signing in");
 }
 
 
+<input type="button" value="sign-in" onclick="signIn()">
