@@ -1,10 +1,10 @@
 //Function called "signIn", causes an alert to pop up with text "Thanks for signing in". Should be triggered by clicking on the button with id of "sign-in".
 function signIn() {
-	var message1 = "Thanks for signing in.";
-	alert(message1);
+	var message = document.getElementById("sign-in");
+	alert("Thanks for signing in.");
 }
 
-<button onclick="signIn();">sign-in</button>
+signIn();
 
 
 
@@ -15,6 +15,3 @@ function signUp() {
 	document.write("Thanks for signing up, ");
 	document.getElementById("output-here").innerHTML=userInput;
 }
-
-
-<button onclick="getUserInput();">sign-up</button>
