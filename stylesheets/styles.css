@@ -1,3 +1,17 @@
 /*  View example button styles here: http://hellohappy.org/css3-buttons/ 
     Then view their code here:  https://github.com/ubuwaits/css3-buttons
     Pick two that you like, and copy the css code from repo to style the two buttons on index.html. */
+
+*{
+				margin: 0;
+				padding: 0;
+	
+}
+
+body {			overflow:auto;
+				overflow-x:hidden; 
+  				border: 0px;
+				margin: 0px;
+				padding: 0px;
+				background-color: rgb(24, 160, 251);
+}
