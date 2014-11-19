@@ -12,6 +12,14 @@ signIn();
 
 function signUp() {
 	var userInput = prompt("Please enter your email address");
-	document.write("Thanks for signing up, ");
-	document.getElementById("output-here").innerHTML=userInput;
+	document.write("Thanks for signing up, " + userInput);
+	document.getElementById("output-here").innerHTML= userInput;
 }
+
+var userInput = ("userInput");
+
+
+
+//An extra credit function that .....
+
+//function extraCredit() {}
