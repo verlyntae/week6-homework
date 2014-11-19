@@ -23,7 +23,11 @@ function getUserInput(){
 var userInput = ("userInput");
 
 
+<<<<<<< HEAD
 //An extra credit function that does something...something special.                                         }
+=======
+//An extra credit function that does something...something special.                                         }
+>>>>>>> gh-pages
 
 var seconds = 60;
 function countdown() {
